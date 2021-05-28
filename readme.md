@@ -1,1 +1,1 @@
-Using new tech! check it out later
+Created a posting app with login functionality.
